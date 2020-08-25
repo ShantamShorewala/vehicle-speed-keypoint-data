@@ -1,6 +1,6 @@
 # vehicle-speed-keypoint-data
 
-Code and dataset for the paper titled "Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras" accepted to IEEE Intelligent Transportation Systems Conference (ITSC) 2020. 
+Code and dataset for the paper titled "Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras" accepted to the 23rd IEEE Intelligent Transportation Systems Conference (ITSC) 2020. 
 
 © 2020. The dataset is licensed under a CC BY-NC-SA 4.0 license. 
 
