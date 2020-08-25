@@ -1,6 +1,8 @@
 # vehicle-speed-keypoint-data
 
-Code and dataset for the paper titled "Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras" accepted to IEEE Intelligent Transportation Systems Conference (ITSC) 2020.
+Code and dataset for the paper titled "Link Speed Estimation for Traffic Flow Modelling Based on Video Feeds from Monocular Cameras" accepted to IEEE Intelligent Transportation Systems Conference (ITSC) 2020. 
+
+© 2020. The dataset is licensed under a CC BY-NC-SA 4.0 license. 
 
 1. Keypoint detection for autorickshaws
 
@@ -15,4 +17,3 @@ The speed clips are available at https://drive.google.com/drive/folders/14yoFaXu
 The annotation file consists of three fields: link number, vehicle instance number in the link, corresponding speed (in m/s). Corresponding video files are named appropriately and the vehicle instances are marked in the order of their appearance in the scene.
 
 3. Code (to be added soon)
-
